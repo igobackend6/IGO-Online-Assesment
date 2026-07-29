@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "category": "Aptitude",
+    "question": "A shopkeeper sells an item for ₹450 at a profit of 20%. What was the cost price?",
+    "options": ["₹360", "₹375", "₹400", "₹420"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "category": "Aptitude",
+    "question": "If 40% of a number is 96, what is the number?",
+    "options": ["220", "230", "240", "250"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "category": "Aptitude",
+    "question": "A can complete a work in 12 days and B can complete the same work in 18 days. Working together, how many days will they take?",
+    "options": ["6.2 days", "7.2 days", "8.2 days", "9.2 days"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "category": "Aptitude",
+    "question": "A train travels 360 km in 4 hours. What is its speed in m/s?",
+    "options": ["20 m/s", "25 m/s", "30 m/s", "35 m/s"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "category": "Aptitude",
+    "question": "Divide ₹2400 among A, B and C in the ratio 2:3:5. What is C's share?",
+    "options": ["₹800", "₹1000", "₹1100", "₹1200"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "category": "Aptitude",
+    "question": "Find the simple interest on ₹5000 at 8% per annum for 3 years.",
+    "options": ["₹1000", "₹1100", "₹1200", "₹1300"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "category": "Aptitude",
+    "question": "What is the compound interest on ₹10,000 at 10% per annum for 2 years, compounded annually?",
+    "options": ["₹2000", "₹2050", "₹2100", "₹2200"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "category": "Aptitude",
+    "question": "The average of 5 consecutive even numbers is 24. What is the largest number?",
+    "options": ["26", "28", "30", "32"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "category": "Aptitude",
+    "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "44"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "category": "Aptitude",
+    "question": "Pointing to a photograph, a man says, \"She is the daughter of my grandfather's only son.\" How is the woman related to the man?",
+    "options": ["Mother", "Sister", "Aunt", "Cousin"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "category": "Aptitude",
+    "question": "A man walks 5 km east, then turns south and walks 3 km, then turns west and walks 5 km. How far is he from his starting point?",
+    "options": ["2 km", "3 km", "5 km", "8 km"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "category": "Aptitude",
+    "question": "If CODING is written as DPEJOH, how is FLOWER written in the same code?",
+    "options": ["GMPXFS", "GMPXFT", "GNPXFS", "GMQXFS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "category": "Aptitude",
+    "question": "Choose the pair that has the same relationship: Doctor : Hospital :: Teacher : ?",
+    "options": ["Book", "School", "Student", "Chalk"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "category": "Aptitude",
+    "question": "Find the odd one out: Mango, Banana, Potato, Apple",
+    "options": ["Mango", "Banana", "Potato", "Apple"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "category": "Aptitude",
+    "question": "Complete the series: A, C, F, J, O, ?",
+    "options": ["S", "T", "U", "V"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "category": "Aptitude",
+    "question": "Five years ago, a father was 4 times as old as his son. Ten years from now, the father will be twice as old as his son. What is the father's current age?",
+    "options": ["35", "40", "45", "50"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "category": "Aptitude",
+    "question": "In how many ways can the letters of the word 'TABLE' be arranged so that vowels always come together?",
+    "options": ["24", "36", "48", "60"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "category": "Aptitude",
+    "question": "A bag contains 4 red and 6 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+    "options": ["0.2", "0.3", "0.4", "0.5"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "category": "Aptitude",
+    "question": "A shopkeeper marks up goods by 25% and then gives a discount of 20% on the marked price. What is his overall profit/loss percentage?",
+    "options": ["No profit no loss", "5% profit", "5% loss", "10% profit"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "category": "Aptitude",
+    "question": "If the day before yesterday was Thursday, what day will it be tomorrow?",
+    "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "category": "Coding",
+    "question": "What is the time complexity of binary search on a sorted array of n elements?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "category": "Coding",
+    "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+    "options": ["Queue", "Stack", "Linked List", "Tree"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "category": "Coding",
+    "question": "Which SQL clause is used to filter rows produced by a GROUP BY?",
+    "options": ["WHERE", "HAVING", "FILTER", "ORDER BY"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "category": "Coding",
+    "question": "Which HTML tag is the correct semantic element for the main navigation links of a page?",
+    "options": ["<div>", "<section>", "<nav>", "<span>"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "category": "Coding",
+    "question": "In the CSS box model, which property adds space outside an element's border?",
+    "options": ["padding", "margin", "outline", "border-spacing"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "category": "Coding",
+    "question": "In JavaScript, what does a closure allow a function to do?",
+    "options": [
+      "Run asynchronously by default",
+      "Access variables from its outer lexical scope even after that scope has returned",
+      "Automatically bind 'this' to the global object",
+      "Prevent all variable reassignment"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "category": "Coding",
+    "question": "Which OOP principle refers to bundling data and the methods that operate on it, while restricting direct access to some of an object's components?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation", "Abstraction"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "category": "Coding",
+    "question": "What must every recursive function have to avoid infinite recursion?",
+    "options": ["A loop", "A base case", "A global variable", "A return type of void"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "category": "Coding",
+    "question": "What is the average-case time complexity of bubble sort?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(n^2)"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 30,
+    "category": "Coding",
+    "question": "Compared to an array, what is a key advantage of a singly linked list?",
+    "options": [
+      "Constant-time random access to any element",
+      "Efficient insertion and deletion without shifting elements",
+      "Better cache locality",
+      "Lower memory usage per element"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "category": "Coding",
+    "question": "Which HTTP status code indicates that a resource was created successfully?",
+    "options": ["200", "201", "204", "301"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "category": "Coding",
+    "question": "Which HTTP method is idempotent and used to update/replace an entire resource?",
+    "options": ["POST", "PUT", "PATCH", "CONNECT"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "category": "Coding",
+    "question": "Which Git command creates a new branch and switches to it in one step?",
+    "options": ["git branch -m", "git checkout -b", "git merge -b", "git commit -b"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "category": "Coding",
+    "question": "What is the primary goal of database normalization?",
+    "options": [
+      "Increase data redundancy for faster reads",
+      "Reduce redundancy and avoid update/insert/delete anomalies",
+      "Merge all tables into one large table",
+      "Remove all primary keys"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "category": "Coding",
+    "question": "What does a foreign key in a relational database represent?",
+    "options": [
+      "A column that uniquely identifies each row in its own table",
+      "An index used only for full-text search",
+      "A column that references the primary key of another table to enforce a relationship",
+      "A key used only for encryption"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "category": "Coding",
+    "question": "In JavaScript, what is the key difference between '==' and '==='?",
+    "options": [
+      "'==' compares values with type coercion, '===' compares value and type strictly",
+      "'===' is only used for strings",
+      "'==' is faster than '===' at runtime",
+      "There is no difference"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "category": "Coding",
+    "question": "In Python, what is the main difference between a list and a tuple?",
+    "options": [
+      "Lists are immutable, tuples are mutable",
+      "Lists are mutable, tuples are immutable",
+      "Tuples cannot store multiple data types",
+      "Lists cannot be indexed"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "category": "Coding",
+    "question": "Which data structure follows the First In First Out (FIFO) principle?",
+    "options": ["Stack", "Queue", "Binary Tree", "Hash Map"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "category": "Coding",
+    "question": "What is the average time complexity of a lookup in a well-implemented hash table?",
+    "options": ["O(n)", "O(log n)", "O(1)", "O(n^2)"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "category": "Coding",
+    "question": "In JavaScript, which keyword is used to handle exceptions that might be thrown inside a block of code?",
+    "options": ["throw", "catch", "finally", "raise"],
+    "correctAnswer": 1
+  }
+]
